@@ -16,7 +16,7 @@ public class Main {
         int i = 0;
         while (total < 2_459_000) {
             total = total + deposit;
-            System.out.println("Месяц " + (i++) + ", сумма накоплений равна " + total + " рублей.");
+            System.out.println("Месяц " + (i++) + ", сумма накоплений равна " + total + " рублей");
         }
     }
     public static void task2 () {
